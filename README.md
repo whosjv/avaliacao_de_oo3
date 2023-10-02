@@ -1,1 +1,1 @@
-# avaliacao_de_oo3
+Repositório criado para facilitar a visualização do código referente à avaliação de Orientação a Objetos 2.
